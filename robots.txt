@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://advogadacarolinagarcia.com.br/sitemap.xml
